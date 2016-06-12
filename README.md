@@ -1,4 +1,4 @@
-###Changes by Imran
+###Changes by Imran Ahamed
 ### Introduction
 
 This second programming assignment will require you to write an R
